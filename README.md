@@ -1,24 +1,9 @@
-# README
+# Example of Chat Application with Rails 6.1.0, Realtime Application, with Action Cable, WebSocket - Bidirectional Connection
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby version: 3.1.2
+Rails version: 6.1.0
 
-Things you may want to cover:
+To run:  
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Go to the terminal, give the command:    $ rails
+Then go to: Localhost:3000/chat/room
